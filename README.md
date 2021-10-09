@@ -1,2 +1,2 @@
 # AI-flappy
-python project using keras to teach a neural network to play flappy bird
+python project using 'Neat' module to teach a neural network to play flappy bird. game
